@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/manyminds/api2go/jsonapi"
-	"github.com/manyminds/api2go/routing"
+	"github.com/L-four/api2go/jsonapi"
+	"github.com/L-four/api2go/routing"
 )
 
 const (

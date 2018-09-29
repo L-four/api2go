@@ -6,9 +6,9 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/manyminds/api2go"
-	"github.com/manyminds/api2go/examples/model"
-	"github.com/manyminds/api2go/examples/storage"
+	"github.com/L-four/api2go"
+	"github.com/L-four/api2go/examples/model"
+	"github.com/L-four/api2go/examples/storage"
 )
 
 // UserResource for api2go routes
